@@ -1,2 +1,2 @@
 # android-template
-Android project template
+Android project template.
