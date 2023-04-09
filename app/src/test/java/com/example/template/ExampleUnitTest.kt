@@ -1,8 +1,7 @@
-package com.example.testapp
+package com.example.template
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
