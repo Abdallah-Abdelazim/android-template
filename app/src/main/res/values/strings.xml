@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Test App</string>
+    <!-- TODO change to app name -->
+    <string name="app_name">Android Template</string>
+
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>

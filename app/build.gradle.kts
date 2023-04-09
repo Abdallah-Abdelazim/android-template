@@ -9,10 +9,12 @@ plugins {
 }
 
 android {
+    // TODO change to your package name (also rename package hierarchy in java folder
     namespace = "com.example.template"
     compileSdk = 33
 
     defaultConfig {
+        // TODO change to your application ID
         applicationId = "com.example.template"
         minSdk = 21
         targetSdk = 33
