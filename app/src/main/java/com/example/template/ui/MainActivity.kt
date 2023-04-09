@@ -1,4 +1,4 @@
-package com.example.template
+package com.example.template.ui
 
 import android.os.Bundle
 import android.view.Menu
@@ -9,6 +9,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
+import com.example.template.R
 import com.example.template.databinding.ActivityMainBinding
 import com.google.android.material.snackbar.Snackbar
 

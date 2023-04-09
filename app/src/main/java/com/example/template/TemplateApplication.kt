@@ -1,6 +1,7 @@
 package com.example.template
 
 import android.app.Application
+import com.example.template.di.uiModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
 import org.koin.core.context.GlobalContext
@@ -19,6 +20,7 @@ class TemplateApplication : Application() {
             androidLogger()
             androidContext(this@TemplateApplication)
             modules(
+                uiModule,
                 // TODO add your modules here
             )
         }
