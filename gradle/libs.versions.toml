@@ -23,7 +23,7 @@ koin = "3.4.0"
 utilcodex = "1.31.1"
 junit = "4.13.2"
 mockito = "3.3.3"
-kluent = "1.69"
+kluent = "1.73"
 androidxJunit = "1.1.5"
 espresso = "3.5.1"
 
