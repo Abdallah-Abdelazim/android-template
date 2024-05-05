@@ -1,4 +1,3 @@
-@Suppress("DSL_SCOPE_VIOLATION") // Remove when fixed https://youtrack.jetbrains.com/issue/KTIJ-19369
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
@@ -11,13 +10,13 @@ plugins {
 android {
     // TODO change to your package name (also rename package hierarchy in java folder
     namespace = "com.example.template"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         // TODO change to your application ID
         applicationId = "com.example.template"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0.0"
 
