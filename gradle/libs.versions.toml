@@ -1,6 +1,6 @@
 [versions]
 androidGradlePlugin = "8.0.1"
-kotlin = "1.8.20"
+kotlin = "1.9.23"
 ksp = "1.8.20-1.0.11"
 coreKtx = "1.13.1"
 appcompat = "1.6.1"
